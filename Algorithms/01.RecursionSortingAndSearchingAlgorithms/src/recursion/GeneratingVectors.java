@@ -3,7 +3,7 @@ package recursion;
 import java.util.Scanner;
 
 public class GeneratingVectors {
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
         int[] arr = new int[n];

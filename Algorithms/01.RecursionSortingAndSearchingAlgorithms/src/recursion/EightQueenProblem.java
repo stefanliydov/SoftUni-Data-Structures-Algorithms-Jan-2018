@@ -39,7 +39,6 @@ public class EightQueenProblem {
                 }
             }
         }
-
     }
 
     private static void setAttackedPlaces(int r, int c) {
